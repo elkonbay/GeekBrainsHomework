@@ -1,0 +1,15 @@
+/Users/el/Desktop/Homework/23/bin/Debug/net7.0/23
+/Users/el/Desktop/Homework/23/bin/Debug/net7.0/23.deps.json
+/Users/el/Desktop/Homework/23/bin/Debug/net7.0/23.runtimeconfig.json
+/Users/el/Desktop/Homework/23/bin/Debug/net7.0/23.dll
+/Users/el/Desktop/Homework/23/bin/Debug/net7.0/23.pdb
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.csproj.AssemblyReference.cache
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.AssemblyInfoInputs.cache
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.AssemblyInfo.cs
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.csproj.CoreCompileInputs.cache
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.dll
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/refint/23.dll
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.pdb
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/23.genruntimeconfig.cache
+/Users/el/Desktop/Homework/23/obj/Debug/net7.0/ref/23.dll
