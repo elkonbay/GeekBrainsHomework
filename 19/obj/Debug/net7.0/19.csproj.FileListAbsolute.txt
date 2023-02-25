@@ -1,0 +1,15 @@
+/Users/el/Desktop/Homework/19/bin/Debug/net7.0/19
+/Users/el/Desktop/Homework/19/bin/Debug/net7.0/19.deps.json
+/Users/el/Desktop/Homework/19/bin/Debug/net7.0/19.runtimeconfig.json
+/Users/el/Desktop/Homework/19/bin/Debug/net7.0/19.dll
+/Users/el/Desktop/Homework/19/bin/Debug/net7.0/19.pdb
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.csproj.AssemblyReference.cache
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.AssemblyInfoInputs.cache
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.AssemblyInfo.cs
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.csproj.CoreCompileInputs.cache
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.dll
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/refint/19.dll
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.pdb
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/19.genruntimeconfig.cache
+/Users/el/Desktop/Homework/19/obj/Debug/net7.0/ref/19.dll
